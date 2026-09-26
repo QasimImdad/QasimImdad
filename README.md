@@ -1,16 +1,52 @@
-## Hi there 👋
+# Hi, I'm Muhammad Qasim 👋
 
-<!--
-**QasimImdad/QasimImdad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Full-Stack Web Developer
 
-Here are some ideas to get you started:
+I'm a Business & Information Technology student focused on building practical web applications and developing my skills in full-stack development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy turning ideas into functional, user-friendly web experiences and learning by building real projects.
+
+## 🛠️ Tech Stack
+
+**Frontend**
+
+* HTML
+* CSS
+* JavaScript
+* React
+* Bootstrap
+
+**Backend**
+
+* Node.js
+* Express.js
+
+**Database**
+
+* MySQL
+* MongoDB
+
+**Tools**
+
+* Git
+* GitHub
+* VS Code
+
+## 🚀 What I'm Currently Working On
+
+* Building full-stack web applications
+* Improving my React and Node.js skills
+* Learning and working with REST APIs
+* Building projects to strengthen my development skills
+
+## 📌 Featured Projects
+
+My projects and their source code are available in the repositories on this profile.
+
+## 📫 Connect With Me
+
+* LinkedIn: [Muhammad Qasim](https://www.linkedin.com/in/muhammad-qasim-36a902386/)
+
+---
+
+*Always learning. Always building.*
